@@ -1,0 +1,32 @@
+{
+  "challenge_id": "round_1b_002",
+  "test_case_name": "travel_planner",
+  "persona": {
+    "role": "Travel Planner"
+  },
+  "job_to_be_done": {
+    "task": "Plan a trip of 4 days for a group of 10 college friends."
+  },
+  "top_sections": [
+    {
+      "title": "South of France - Tips and Tricks",
+      "text": "•   Additional Tips:  Pack extra clothing for kids, as they may need more changes of  clothes than adults."
+    },
+    {
+      "title": "South of France - Tips and Tricks",
+      "text": "•   Additional Tips:  Plan your wine tour route in advance and consider hiring a driver or  joining a guided tour to avoid drinking and driving."
+    },
+    {
+      "title": "South of France - Tips and Tricks",
+      "text": "•   Additional Tips:  Winter is mild compared to other regions, but it's still important to  pack warm clothing for cooler evenings. Consider packing thermal underwear for  extra warmth."
+    },
+    {
+      "title": "South of France - Tips and Tricks",
+      "text": "•   Additional Tips:  Pack a beach umbrella or tent for shade and a cooler for drinks and  snacks. Consider bringing a waterproof phone case to protect your device."
+    },
+    {
+      "title": "South of France - Tips and Tricks",
+      "text": "•   Additional Tips:  Pack a small travel umbrella, a reusable shopping bag, and a  portable phone charger. Consider using a luggage scale to avoid overweight baggage  fees."
+    }
+  ]
+}

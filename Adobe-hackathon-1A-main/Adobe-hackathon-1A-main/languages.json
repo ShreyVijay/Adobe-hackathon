@@ -1,0 +1,14 @@
+{
+  "en": {
+    "heading_patterns": [
+      "^(Chapter|CHAPTER|Section|SECTION|Part|PART)\\s+\\d+",
+      "^\\d+(\\.\\d+)*\\s+[A-Z].*"
+    ]
+  },
+  "es": {
+    "heading_patterns": [
+      "^(Cap[ií]tulo|SECCI[ÓO]N|Parte)\\s+\\d+",
+      "^\\d+(\\.\\d+)*\\s+[A-ZÁÉÍÓÚÑ].*"
+    ]
+  }
+}
